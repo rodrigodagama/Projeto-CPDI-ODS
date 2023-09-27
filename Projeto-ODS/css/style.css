@@ -383,8 +383,8 @@
 }
 
 img {
-    height: 40%;
-    width: 30%;
+    min-height: 80%;
+    min-width: 80%;
 }
 
 .btn-plugshare{
